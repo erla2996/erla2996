@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+A selection of projects that I have worked on are:
+- [A [solar system model and visualisation](https://github.com/erla2996/SolarSystem), written in javascript and [Three.js](https://threejs.org/).
