@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 
 A selection of projects that I have worked on are:
-- A [solar system model and visualisation](https://github.com/erla2996/SolarSystem), written in javascript and [Three.js](https://threejs.org/).
+- An [itinerary planner](https://github.com/erla2996/UIP2), written in javascript and [Three.js](https://threejs.org/). The project is an exercise in user interface design.
+- A [solar system model and visualisation](https://github.com/erla2996/SolarSystem), written in javascript and [Three.js](https://threejs.org/). The project is a hobby project, undertaken in order to deepen my knowledge of Three.js, as well as the challenges of simulating a solar system.
